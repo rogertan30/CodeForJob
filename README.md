@@ -18,4 +18,5 @@
 
 ### 书籍
 🐎[一篇文章拿下《Effective Objective-C 2.0编写高质量iOS与OS X代码的52个有效方法》](https://www.jianshu.com/p/862b064e82e0) 🌟🌟🌟🌟🌟
+[《Effective Objective-C 2.0》笔记](https://www.jianshu.com/p/cb1f9d4b48bf) 🌟🌟🌟
   * [iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc)
