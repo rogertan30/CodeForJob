@@ -6,7 +6,7 @@
 预计学习时间：🐎 很快就能学完（<5 day）；🐕 中等 （5 - 20 days）；🐢 慢（>1 month）
 
 
-## 视频教程
+## 视频
 🐕[小码哥《iOS底层原理》学习笔记](https://juejin.im/user/5a329c1351882529707931f0/posts) 🌟🌟🌟🌟🌟
 
 🐕[新浪微博资深大牛全方位剖析 iOS 高级面试（没有找到学习笔记）](https://coding.imooc.com/class/202.html) 🌟🌟🌟🌟🌟
@@ -24,4 +24,4 @@
 
 [《Effective Objective-C 2.0》笔记](https://www.jianshu.com/p/cb1f9d4b48bf) 🌟🌟🌟
 
-[iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc)[第八条：理解“对象等同性”这一概念]
+[iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc) 🌟🌟🌟🌟
