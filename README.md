@@ -24,4 +24,4 @@
 
 [《Effective Objective-C 2.0》笔记](https://www.jianshu.com/p/cb1f9d4b48bf) 🌟🌟🌟
 
-第八条：理解“对象等同性”这一概念：[iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc)
+[iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc)[第八条：理解“对象等同性”这一概念]
