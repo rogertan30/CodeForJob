@@ -27,9 +27,13 @@
 [iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc) 🌟🌟🌟🌟
 
 ## 网络
-#### 🐎《图解HTTP》
+🐎《图解HTTP》
+
+🐎[iOS | 面试知识整理 - 网络相关 (七)](https://juejin.im/post/5d89f6d8f265da03f3339499#heading-32)
 
 ## 设计模式
 🐎[iOS设计模式(swift实现)](https://github.com/oneAlon/DesignPatterns) 🌟🌟🌟🌟🌟
+
 🐎[史上最全设计模式导学目录（完整版）](https://blog.csdn.net/lovelion/article/details/17517213) 🌟🌟🌟🌟🌟
+
 🐎[图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html) 🌟🌟🌟🌟🌟
