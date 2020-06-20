@@ -37,3 +37,6 @@
 🐎[史上最全设计模式导学目录（完整版）](https://blog.csdn.net/lovelion/article/details/17517213) 🌟🌟🌟🌟🌟
 
 🐎[图说设计模式](https://design-patterns.readthedocs.io/zh_CN/latest/index.html) 🌟🌟🌟🌟🌟
+
+🐎[Cocoa如何应用设计模式](https://www.cnblogs.com/pengyingh/articles/2346299.html) 🌟🌟🌟🌟🌟
+
