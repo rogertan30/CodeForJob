@@ -46,3 +46,5 @@
 [YYCache 源码解析](https://juejin.im/post/6844903554214264840#heading-32) 🌟🌟🌟🌟🌟
 
 [YYCache 源码剖析：一览亮点](https://www.jianshu.com/p/408d4d37bcbd) 🌟🌟🌟🌟🌟
+
+[YYCache 源码解析](https://zhang759740844.github.io/2018/11/30/yycache/) 🌟🌟🌟🌟🌟
