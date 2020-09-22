@@ -60,3 +60,11 @@
 [iOS 源代码分析 --- SDWebImage](https://github.com/draveness/analyze/blob/master/contents/SDWebImage/iOS%20%E6%BA%90%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90%20---%20SDWebImage.md)
 
 [SDWebImage 源码解析](https://juejin.im/post/6844903541031567367)
+
+[SDWebImage源码解析（一）](http://cloverkim.com/SDWebImage-source-code-analysis-1.html)
+
+[SDWebImage源码解析（二）](http://cloverkim.com/SDWebImage-source-code-analysis-2.html)
+
+[SDWebImage源码解析（三）](http://cloverkim.com/SDWebImage-source-code-analysis-3.html)
+
+
