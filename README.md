@@ -48,3 +48,10 @@
 [YYCache 源码剖析：一览亮点](https://www.jianshu.com/p/408d4d37bcbd) 🌟🌟🌟🌟🌟
 
 [YYCache 源码解析](https://zhang759740844.github.io/2018/11/30/yycache/) 🌟🌟🌟🌟🌟
+
+#### 🐎[YYAsyncLaye](https://github.com/ibireme/YYAsyncLayer)
+[iOS UIView绘制&异步绘制](https://www.jianshu.com/p/dbada5f44ac1)
+
+[YYAsyncLayer 源码解析](https://zhang759740844.github.io/2019/02/15/yyasynclayer/)
+
+[YYAsyncLayer 源码剖析：异步绘制](https://www.jianshu.com/p/154451e4bd42)
