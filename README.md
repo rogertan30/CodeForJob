@@ -73,31 +73,10 @@
 [消息转发机制与Aspects源码解析](https://blog.csdn.net/hello_hwc/article/details/72632075)
 
 #### 🐎[AFNetworking](https://github.com/AFNetworking/AFNetworking)
-[AFNetworking 3.0 源码解读（一）之 AFNetworkReachabilityManager](https://www.cnblogs.com/machao/p/5681645.html)
+[AFNetworking 概述](https://draveness.me/afnetworking1/)
 
-[AFNetworking 3.0 源码解读（二）之 AFSecurityPolicy]()
+[AFNetworking 3.0 源码解读](https://www.cnblogs.com/machao/p/5681645.html)
 
-[AFNetworking 3.0 源码解读（三）之 AFURLRequestSerialization]()
-
-[AFNetworking 3.0 源码解读（四）之 AFURLResponseSerialization]()
-
-[AFNetworking 3.0 源码解读（五）之 AFURLSessionManager]()
-
-[AFNetworking 3.0 源码解读（六）之 AFHTTPSessionManager]()
-
-[AFNetworking 3.0 源码解读（七）之 AFAutoPurgingImageCache]()
-
-[AFNetworking 3.0 源码解读（八）之 AFImageDownloader]()
-
-[AFNetworking 3.0 源码解读（九）之 AFNetworkActivityIndicatorManager]()
-
-[AFNetworking 3.0 源码解读（十）之 UIActivityIndicatorView/UIRefreshControl/UIImageView + AFNetworking]()
-
-[AFNetworking 3.0 源码解读（十一）之 UIButton/UIProgressView/UIWebView + AFNetworking]()
-
-[AFNetworking 3.0 源码解读 总结（干货）（上）]()
-
-[AFNetworking 3.0 源码解读 总结（干货）（下）]()
 
 
 
