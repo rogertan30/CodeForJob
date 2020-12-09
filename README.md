@@ -9,7 +9,7 @@
 ## 视频
 🐕[小码哥《iOS底层原理》学习笔记](https://juejin.im/user/5a329c1351882529707931f0/posts) 🌟🌟🌟🌟🌟
 
-🐕[新浪微博资深大牛全方位剖析 iOS 高级面试（没有找到学习笔记）](https://coding.imooc.com/class/202.html) 🌟🌟🌟🌟🌟
+🐕[《新浪微博资深大牛全方位剖析 iOS 高级面试》学习笔记](https://juejin.cn/post/6899772676794122253) 🌟🌟🌟🌟🌟
 
 🐕[小码哥《Swift从入门到精通》学习笔记](https://www.cnblogs.com/tzsh1007/category/1511704.html)&emsp; 🌟🌟🌟🌟
 
@@ -29,7 +29,7 @@
 [iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc) 🌟🌟🌟🌟
 
 ## 网络
-🐎《图解HTTP》
+🐎[《图解 HTTP》 阅读摘要](https://juejin.cn/post/6844903801640452103)
 
 🐎[iOS | 面试知识整理 - 网络相关 (七)](https://juejin.im/post/5d89f6d8f265da03f3339499#heading-32)
 
