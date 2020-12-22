@@ -5,20 +5,20 @@
 
 预计学习时间：🐎 很快就能学完（<5 day）；🐕 中等 （5 - 20 days）；🐢 慢（>1 month）
 
-## 视频
-🐕[小码哥《iOS底层原理》学习笔记](https://juejin.im/user/5a329c1351882529707931f0/posts) 🌟🌟🌟🌟🌟
-
-🐕[《新浪微博资深大牛全方位剖析 iOS 高级面试》学习笔记](https://juejin.cn/post/6899772676794122253) 🌟🌟🌟🌟🌟
-
-🐕[小码哥《Swift从入门到精通》学习笔记](https://www.cnblogs.com/tzsh1007/category/1511704.html)&emsp; 🌟🌟🌟🌟
-
 ## 算法
 🐢[小码哥《恋上数据结构与算法》1-3季学习笔记](https://github.com/rogertan30/Love-Leetcode)&emsp; 🌟🌟🌟🌟🌟
 
 🐢[iOS高频算法题汇总](https://github.com/rogertan30/TopLeedcode)&emsp; 🌟🌟🌟🌟🌟
 
 ## iOS
-#### 🐢[极客时间《iOS开发高手课》学习笔记](https://github.com/rogertan30/GeekTime) 🌟🌟🌟🌟🌟
+
+🐕[小码哥《iOS底层原理》学习笔记](https://juejin.im/user/5a329c1351882529707931f0/posts) 🌟🌟🌟🌟🌟
+
+🐕[《新浪微博资深大牛全方位剖析 iOS 高级面试》学习笔记](https://juejin.cn/post/6899772676794122253) 🌟🌟🌟🌟🌟
+
+🐕[小码哥《Swift从入门到精通》学习笔记](https://www.cnblogs.com/tzsh1007/category/1511704.html)&emsp; 🌟🌟🌟🌟
+
+🐢[极客时间《iOS开发高手课》学习笔记](https://github.com/rogertan30/GeekTime) 🌟🌟🌟🌟🌟
 
 #### 🐎《Effective Objective-C 2.0编写高质量iOS与OS X代码的52个有效方法》
   * [一篇文章拿下《Effective Objective-C 2.0编写高质量iOS与OS X代码的52个有效方法》](https://www.jianshu.com/p/862b064e82e0) 🌟🌟🌟🌟🌟
