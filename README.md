@@ -28,6 +28,14 @@
   * [《Effective Objective-C 2.0》笔记](https://www.jianshu.com/p/cb1f9d4b48bf) 🌟🌟🌟
 
   * [iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc) 🌟🌟🌟🌟
+  
+#### 🐎《Objective-C高级编程iOS与OS X多线程和内存管理》
+
+## 操作系统
+
+程序员的自我修养
+
+深入解析Mac OS X & iOS操作系统
 
 ## 网络
 
