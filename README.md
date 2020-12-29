@@ -30,6 +30,11 @@
   * [iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc) 🌟🌟🌟🌟
   
 #### 🐎《Objective-C高级编程iOS与OS X多线程和内存管理》
+  * [《Objective-C 高级编程》干货三部曲（一）：引用计数篇](https://juejin.cn/post/6844903473272586254) 🌟🌟🌟🌟🌟
+  
+  * [《Objective-C 高级编程》干货三部曲（二）：Blocks篇](https://juejin.cn/post/6844903474312773646) 🌟🌟🌟🌟🌟
+  
+  * [《Objective-C 高级编程》干货三部曲（三）：GCD篇](https://juejin.cn/post/6844903475378159623) 🌟🌟🌟🌟🌟
 
 ## 操作系统
 
