@@ -25,7 +25,7 @@
 
   * [《Effective Objective-C》干货三部曲](https://juejin.im/post/5a4f34226fb9a01cb0492016) 🌟🌟🌟🌟🌟
 
-  * [《Effective Objective-C 2.0》笔记](https://www.jianshu.com/p/cb1f9d4b48bf) 🌟🌟🌟
+  * [iOS 编写高质量Objective-C代码（一）](https://www.jianshu.com/p/76ac67f1bd95) 🌟🌟🌟🌟🌟
 
   * [iOS开发之不要告诉我你真的懂isEqual与hash!](https://www.jianshu.com/p/915356e280fc) 🌟🌟🌟🌟
   
