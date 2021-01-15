@@ -38,9 +38,9 @@
 
 ## 操作系统
 
-程序员的自我修养
+🐕[程序员的自我修养](https://pan.baidu.com/s/1sNeVPw0BprN2X43otGE5Ng)
 
-深入解析Mac OS X & iOS操作系统
+🐕[深入解析Mac OS X & iOS操作系统](https://pan.baidu.com/s/18LOQK069b5FXBBQvxmDbBA)
 
 ## 网络
 
