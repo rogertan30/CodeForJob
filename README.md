@@ -82,11 +82,6 @@
 
 🐎 [Cocoa如何应用设计模式](https://www.cnblogs.com/pengyingh/articles/2346299.html) 🌟🌟🌟🌟🌟
 
-## 开发模式
-
-#### MVVM
-🐎 [RxSwift中文文档](https://beeth0ven.github.io/RxSwift-Chinese-Documentation/)
-
 ## 三方库源码
 
 #### 🐎 [YYCache](https://github.com/lyimin/YYCache) 🌟🌟🌟🌟🌟
@@ -125,8 +120,8 @@
   * [AFNetworking 3.0 源码解读](https://www.cnblogs.com/machao/p/5681645.html)
   
 ## 面试题
- * [日常积累所看到的面试题集锦](https://github.com/iOShuyang/Book-Recommended-Interview)
+ * [日常积累所看到的面试题集锦](https://github.com/iOShuyang/Book-Recommended-Interview) 🌟🌟🌟🌟🌟
  
- * [《招聘一个靠谱的iOS》面试题参考答案(上)](https://github.com/ChenYilong/iOSInterviewQuestions/tree/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88)
+ * [《招聘一个靠谱的iOS》面试题参考答案(上)](https://github.com/ChenYilong/iOSInterviewQuestions/tree/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88) 🌟🌟🌟🌟🌟
  
- * [《招聘一个靠谱的iOS》面试题参考答案（下）](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88/%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E4%B8%8B%EF%BC%89.md)
+ * [《招聘一个靠谱的iOS》面试题参考答案（下）](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88/%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E4%B8%8B%EF%BC%89.md) 🌟🌟🌟🌟🌟
