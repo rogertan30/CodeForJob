@@ -10,6 +10,19 @@
 
 🐢 [iOS高频算法题汇总](https://github.com/rogertan30/TopLeedcode)&emsp; 🌟🌟🌟🌟🌟
 
+#### 🐕《剑指Offer》🌟🌟🌟🌟🌟
+ * [《剑指Offer》阅读笔记（swift）：数组篇（11题）](https://juejin.cn/post/6924222269581426696)
+ 
+ * [《剑指Offer》阅读笔记（swift）：链表篇（9题）](https://juejin.cn/post/6936146112503873549)
+
+ * [《剑指Offer》阅读笔记（swift）：字符串（8题）](https://juejin.cn/post/6937129021285072904)
+
+ * [《剑指Offer》阅读笔记（swift）：栈（3题）、递归（4题）、回溯法（2题）](https://juejin.cn/post/6937200136606973988)
+
+ * [《剑指Offer》阅读笔记（swift）：二叉树（12题）、二叉树搜索树（3题）](https://juejin.cn/post/6937491448677793805)
+
+ * [《剑指Offer》阅读笔记（swift）：其他（15题）](https://juejin.cn/post/6937549792423706638)
+ 
 ## iOS
 
 🐢 [小码哥《iOS底层原理》学习笔记](https://juejin.im/user/5a329c1351882529707931f0/posts) 🌟🌟🌟🌟🌟
@@ -38,6 +51,8 @@
 
 ## 操作系统
 
+🐎 [程序是怎样跑起来的](https://github.com/homerzhou/pdf/blob/master/%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84%20%E6%97%A5%20%E7%9F%A2%E6%B3%BD%E4%B9%85%E9%9B%84%20.pdf)
+
 🐕 [程序员的自我修养](https://pan.baidu.com/s/1sNeVPw0BprN2X43otGE5Ng) 🌟🌟🌟🌟🌟
 
 🐕 [深入解析Mac OS X & iOS操作系统](https://pan.baidu.com/s/18LOQK069b5FXBBQvxmDbBA)
@@ -65,6 +80,14 @@
  * [小码哥《网络协议从入门到底层原理》笔记（十）：应用层、域名、DNS解析](https://juejin.cn/post/6917193252818911246)
 
  * [小码哥《网络协议从入门到底层原理》笔记（十一）：HTTP、报文、请求头、状态码、form](https://juejin.cn/post/6917543952702767111)
+
+ * [小码哥《网络协议从入门到底层原理》笔记（十二）：代理、CDN](https://juejin.cn/post/6924130397706338317)
+
+ * [小码哥《网络协议从入门到底层原理》笔记（十三）：网络安全、对称/非对称加密、数字签名、证书](https://juejin.cn/post/6924130634738712590)
+
+ * [小码哥《网络协议从入门到底层原理》笔记（十四）：HTTPS、HTTP2/3、SPDY、QUIC](https://juejin.cn/post/6924130761608200206)
+
+ * [小码哥《网络协议从入门到底层原理》笔记（十五）：WebSocket、HTTPDNS、Cache](https://juejin.cn/post/6924131145323905031)
 
 #### 🐎 《图解 HTTP》🌟🌟🌟🌟🌟
    * 🐎 [《图解 HTTP》 阅读摘要](https://juejin.cn/post/6844903801640452103)
