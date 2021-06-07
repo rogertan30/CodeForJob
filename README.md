@@ -142,6 +142,9 @@
 
   * [AFNetworking 3.0 源码解读](https://www.cnblogs.com/machao/p/5681645.html)
   
+## 版本管理
+#### 🐎 [《7小时学会Git 基础》学习笔记](https://juejin.cn/post/6969862577190862855) 🌟🌟🌟🌟🌟
+
 ## 面试题
  * [日常积累所看到的面试题集锦](https://github.com/iOShuyang/Book-Recommended-Interview) 🌟🌟🌟🌟🌟
  
