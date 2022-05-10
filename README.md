@@ -49,6 +49,10 @@
   
   * [《Objective-C 高级编程》干货三部曲（三）：GCD篇](https://juejin.cn/post/6844903475378159623) 
 
+## 性能优化
+
+* 🐕 [关于iOS性能优化的资料（崩溃、内存、卡顿、启动、网络、编译、秒开等）](https://juejin.cn/post/7025246329072943112) 🌟🌟🌟🌟🌟
+
 ## 操作系统
 
 🐎 [程序是怎样跑起来的](https://github.com/homerzhou/pdf/blob/master/%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84%20%E6%97%A5%20%E7%9F%A2%E6%B3%BD%E4%B9%85%E9%9B%84%20.pdf)
@@ -95,10 +99,6 @@
    * 🐎 [《图解HTTP与HTTPS》的干货1.2w字【绝对保值】](https://juejin.cn/post/6900511779869327373)
  
 🐎 [iOS | 面试知识整理 - 网络相关 (七)](https://juejin.im/post/5d89f6d8f265da03f3339499#heading-32)
-
-## 性能优化
-
-* 🐕 [关于iOS性能优化的资料（崩溃、内存、卡顿、启动、网络、编译、秒开等）](https://juejin.cn/post/7025246329072943112) 🌟🌟🌟🌟🌟
 
 ## 设计模式
 🐎 [iOS设计模式(swift实现)](https://github.com/oneAlon/DesignPatterns) 🌟🌟🌟🌟🌟
